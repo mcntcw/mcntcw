@@ -1,1 +1,1 @@
-<img width="2560" alt="github-bio-x2" src="https://github.com/user-attachments/assets/caff5ab9-ce19-4b7a-9d7a-006c4e8408b2" />
+<img width="2560" height="1440" alt="github-bio" src="https://github.com/user-attachments/assets/5171cb6b-00c0-4185-b629-ae45c7772fb1" />
